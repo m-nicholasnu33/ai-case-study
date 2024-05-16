@@ -99,7 +99,7 @@ Additional integration development with large ERP system providers may offer opp
 
 ## References
 Type: Web Site\
-ThroughPut, Inc. *https://throughput.world/*\
+ThroughPut, Inc. *https://throughput.world/* \
 Type: Web Site\
 www.linkedIn.com *https://www.linkedin.com/products/throughput/*\
 Type: Web Page\
