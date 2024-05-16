@@ -33,26 +33,57 @@ According to the [Association for Supply Chain Management](https://www.ascm.org/
 
 ## Throughput Product Offerings, Meeting the Needs of Business
 
-The positioning in the Market for ThroughPut, Inc's solutions is specifically built to leverage the top trends and needs (as shown above), providing state of the art tools to meet the needs of a huge market of customers, including: 
-*Manufacturing
-*Automotive
-*Retail & Supermarket
-*Food and Beverage
-*Military and Defense
-*Cement & Building Materials
-*Transportation and Logistics
-*Ports
+The positioning in the Market for ThroughPut, Inc's solutions is specifically built to leverage the top trends and needs (as shown above), providing state of the art tools to meet the needs of a huge market of customers, including:
+* Manufacturing
+* Automotive
+* Retail & Supermarket
+* Food and Beverage
+* Military and Defense
+* Cement & Building Materials
+* Transportation and Logistics
+* Ports
 
 The product offerings of ThroughPut, Inc. are built to leverage AI to provide analytics in an automated, detailed way to allow timely decision-making and strategic insights. 
 
 Additionally, ThroughPut's value proposition includes:
-*3 Month total time to value
-*AI-powered, scalable, ready-to-use Software solution with proven ROI-lift.
-*Fast-track AI adoption with pre-built, industry-specific Data Structures and Business Logic.
+* 3 Month total time to value
+* AI-powered, scalable, ready-to-use Software solution with proven ROI-lift.
+* Fast-track AI adoption with pre-built, industry-specific Data Structures and Business Logic.
+
+The tools provide metrics and dashboards that are comprehensive, insightful, and predictive including key metrics to support and report on the following (to name a few), with detail at product, customer, and supplier levels (see Demo Presentation referenced):
+* OTIF (On Time In Full)
+* Working Capital Reduction
+* Excess Inventory Value/Level
+* Suggested Inventory Value/level
+* Safety Stock Levels
+* Replenishment Levels
+* Capacity Utilization and suggested improvements
+* Net Profit Improvement Drivers
+* Uptime Losses, Throughput Losses, Yield Losses
+* End to End Supply Chain Mapping and Opportunity Charts
+* Product Contribution Margin Analytics to Optimize Capacity/Demand
+* Strategic Capacity Utilization insights related to levels of forecast reliability
 
 Trusted supply chain partners/customers noted on the ThroughPut web site include Church Brothers Farms, Food Otosan, Esselunga, Unilever, and Hormel Foods.
 
-ThroughPut recognizes competitors in a blog on their web site to include
+On it's web site, ThroughPut acknowledges being "gently biased" toward the comprehensive tools that they offer, but also recognize that there are other tools for organizations to consider, offered by the following suppliers...
+* Palantir Foundry
+* SAP Supply Chain Analytics Software
+* Oracle Fusion SCM Analytics
+* Blue Yonder
+* Manhattan Associates
+* Tableau
+* CMDH Streamline
+* IBM Supply Chain Analytics
+* Supply Chain GURU X by Coupa
+* Kinaxis RapidResponse
+* 09 Solutions
+* Anaplan
+* Qlik
+* SAS Supply Chain Analytics
+* Aera Technology
+* Conversight
+* Tredence
 
 ## Recommendations
 
