@@ -101,16 +101,16 @@ Additional integration development with large ERP system providers may offer opp
 Type: Web Site\
 ThroughPut, Inc. *https://throughput.world/* \
 Type: Web Site\
-www.linkedIn.com *https://www.linkedin.com/products/throughput/*\
+www.linkedIn.com *https://www.linkedin.com/products/throughput/* \
 Type: Web Page\
-ThroughPut Demo|Watch on Demand *https://info.throughput.world/throughput-demo-watch-on-demand?_gl=1*\
+ThroughPut Demo|Watch on Demand *https://info.throughput.world/throughput-demo-watch-on-demand?_gl=1* \
 Type: Web Page\
-ThroughPut - Crunchbase Company Profile and Funding *https://www.crunchbase.com/organization/throughput-inc*\
+ThroughPut - Crunchbase Company Profile and Funding *https://www.crunchbase.com/organization/throughput-inc* \
 Type: Web Page\
-ThroughPut Company Profile 2024: Valuation, Funding & Investors *https://pitchbook.com/profiles/company/180953-11#faqs*
+ThroughPut Company Profile 2024: Valuation, Funding & Investors *https://pitchbook.com/profiles/company/180953-11#faqs* \
 Type: Web Page\
-ThroughPut Inc.|Golden *https://golden.com/wiki/ThroughPut_Inc.-GE8GX8M*\
+ThroughPut Inc.|Golden *https://golden.com/wiki/ThroughPut_Inc.-GE8GX8M* \
 Type: Web Page\
-Why RigBasket, LLC is rebranding as ThroughPut, Inc. *https://www.linkedin.com/pulse/why-rigbasket-llc-rebranding-throughput-inc-ali-hasan-raza/*\
+Why RigBasket, LLC is rebranding as ThroughPut, Inc. *https://www.linkedin.com/pulse/why-rigbasket-llc-rebranding-throughput-inc-ali-hasan-raza/* \
 Type: Web Page\
-ASCM's Top 10 Supply Chain Trends in 2024 *https://www.ascm.org/ascm-insights/ascms-top-10-supply-chain-trends-in-2024/*\
+ASCM's Top 10 Supply Chain Trends in 2024 *https://www.ascm.org/ascm-insights/ascms-top-10-supply-chain-trends-in-2024/*
