@@ -31,7 +31,7 @@ According to the [Association for Supply Chain Management](https://www.ascm.org/
 9. Green and circular supply chains
 10. Geopolitics and the deglobalization of supply chains
 
-## Throughput Product Offerings, Meeting the Needs of Business
+## ThroughPut, Inc. Product Offerings, Meeting the Needs of Business
 
 The positioning in the Market for ThroughPut, Inc's solutions is specifically built to leverage the top trends and needs (as shown above), providing state of the art tools to meet the needs of a huge market of customers, across many industries including:
 * Manufacturing
