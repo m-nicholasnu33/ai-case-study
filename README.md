@@ -17,6 +17,55 @@ As documented in a letter to the interested community from Founder and CEO, Ali 
 >**Predictable Parts Ordering Is Cute, But Companies Really Want More ThroughPut**\
 At the end of the day, there are tons of tracking technologies, pretty end-to-end software, and new devices that can improve supply chain today. Predictive analytics can dynamically change your forecasts, collaboration tools can expedite processing times, and a tracker might provide more safety to an operation. But what is all this craze around IoT and automation really about? As an engineering-heavy team, we too got lost in the technology, only to realize that what most companies, and in fact all companies, should care about is how new technologies affect their bottom line. “How do we enable more financial throughput?” is the question that should precede “This is cool stuff, should we get it?”. Companies want higher earnings per share, and higher valuations. So why not give it to them?  Moving forward, we will operate entirely as ThroughPut, Inc. with RigBasket serving oil&gas only.  We hope to continue serving you with the same enthusiasm of the original RigBasket team and a bigger ambition at ThroughPut.
 
+## Trends in Supply Chain Management In Recent Years
+
+According to the [Association for Supply Chain Management](https://www.ascm.org/ascm-insights/ascms-top-10-supply-chain-trends-in-2024/) the top 10 trends in Supply Chain Management in 2024 include the following:
+1. Digitization in Supply Chain
+2. Supply Chain Big data and analytics
+3. Supply Chain Artificial Intelligence
+4. Investment in Systems and People
+5. Visibilty, traceablilty and location intelligence
+6. Distruption and risk management
+7. Agility and resilience
+8. Cybersecurity
+9. Green and circular supply chains
+10. Geopolitics and the deglobalization of supply chains
+
+## Throughput Product Offerings, Meeting the Needs of Business
+
+The positioning in the Market for ThroughPut, Inc's solutions is specifically built to leverage the top trends and needs (as shown above), providing state of the art tools to meet the needs of a huge market of customers, including: 
+*Manufacturing
+*Automotive
+*Retail & Supermarket
+*Food and Beverage
+*Military and Defense
+*Cement & Building Materials
+*Transportation and Logistics
+*Ports
+
+The product offerings of ThroughPut, Inc. are built to leverage AI to provide analytics in an automated, detailed way to allow timely decision-making and strategic insights. 
+
+Additionally, ThroughPut's value proposition includes:
+*3 Month total time to value
+*AI-powered, scalable, ready-to-use Software solution with proven ROI-lift.
+*Fast-track AI adoption with pre-built, industry-specific Data Structures and Business Logic.
+
+Trusted supply chain partners/customers noted on the ThroughPut web site include Church Brothers Farms, Food Otosan, Esselunga, Unilever, and Hormel Foods.
+
+ThroughPut recognizes competitors in a blog on their web site to include
+
+## Recommendations
+
+Among the significant hurdles for many companies that need to upgrade legacy systems and invest in new, digital, cloud-based technologies to improve their supply chain managment capabilities include: 
+* Investment costs in ERP systems
+* Cleaning and formatting of data 
+* Financial justification 
+
+It is noted that ThroughPut has aligned partnerships, offering specific products for customers using SAP, Project44 and Microsoft Dynamics for integrations.  These and other customers that have well-desiged digital data structures are likely the best companies to target as the product offerings are being rolled out to the user community.
+
+Additional integration development with large ERP system providers may offer opportunities to leverage the product with larger, comprehensive ERP upgrades and implementations.  
+
+
 ## References
 Type: Web Site\
 ThroughPut, Inc. *https://throughput.world/*\
@@ -32,3 +81,5 @@ Type: Web Page\
 ThroughPut Inc.|Golden *https://golden.com/wiki/ThroughPut_Inc.-GE8GX8M*\
 Type: Web Page\
 Why RigBasket, LLC is rebranding as ThroughPut, Inc. *https://www.linkedin.com/pulse/why-rigbasket-llc-rebranding-throughput-inc-ali-hasan-raza/*\
+Type: Web Page\
+ASCM's Top 10 Supply Chain Trends in 2024 *https://www.ascm.org/ascm-insights/ascms-top-10-supply-chain-trends-in-2024/*\
