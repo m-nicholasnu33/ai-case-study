@@ -25,7 +25,7 @@ According to the [Association for Supply Chain Management](https://www.ascm.org/
 3. Supply Chain Artificial Intelligence
 4. Investment in Systems and People
 5. Visibilty, traceablilty and location intelligence
-6. Distruption and risk management
+6. Disruption and risk management
 7. Agility and resilience
 8. Cybersecurity
 9. Green and circular supply chains
@@ -33,7 +33,7 @@ According to the [Association for Supply Chain Management](https://www.ascm.org/
 
 ## Throughput Product Offerings, Meeting the Needs of Business
 
-The positioning in the Market for ThroughPut, Inc's solutions is specifically built to leverage the top trends and needs (as shown above), providing state of the art tools to meet the needs of a huge market of customers, including:
+The positioning in the Market for ThroughPut, Inc's solutions is specifically built to leverage the top trends and needs (as shown above), providing state of the art tools to meet the needs of a huge market of customers, across many industries including:
 * Manufacturing
 * Automotive
 * Retail & Supermarket
@@ -64,9 +64,9 @@ The tools provide metrics and dashboards that are comprehensive, insightful, and
 * Product Contribution Margin Analytics to Optimize Capacity/Demand
 * Strategic Capacity Utilization insights related to levels of forecast reliability
 
-Trusted supply chain partners/customers noted on the ThroughPut web site include Church Brothers Farms, Food Otosan, Esselunga, Unilever, and Hormel Foods.
+Trusted supply chain partners/customers noted on the ThroughPut web site include Church Brothers Farms, Ford Otosan, Esselunga, Unilever, and Hormel Foods.
 
-On it's web site, ThroughPut acknowledges being "gently biased" toward the comprehensive tools that they offer, but also recognize that there are other tools for organizations to consider, offered by the following suppliers...
+On it's web site, ThroughPut acknowledges being "gently biased" toward the comprehensive tools that they offer, but also recognize that there are other tools that organizations may consider, offered by the following suppliers...
 * Palantir Foundry
 * SAP Supply Chain Analytics Software
 * Oracle Fusion SCM Analytics
@@ -84,6 +84,8 @@ On it's web site, ThroughPut acknowledges being "gently biased" toward the compr
 * Aera Technology
 * Conversight
 * Tredence
+
+As a sign of it's successful presence in the space, ThroughPut highlights in their web site that they have been "recognized as a Representative Vendor in the Prestigious [Gartner](https://www.gartner.com/en/documents/4478399) Market Guide for Analytics and Decision Intelligence Platforms in Supply Chain."
 
 ## Recommendations
 
